@@ -4,17 +4,19 @@
     "url": "https://bangkokbytes.com",
     "icon": "https://icons.duckduckgo.com/ip3/bangkokbytes.com.ico",
     "slug": "bangkok-bytes",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4158,
-    "timeDay": 7360,
-    "timeWeek": 5185,
-    "timeMonth": 4303,
-    "timeYear": 4158,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
+    "time": 4191,
+    "timeDay": 7008,
+    "timeWeek": 5223,
+    "timeMonth": 4340,
+    "timeYear": 4191,
+    "dailyMinutesDown": {
+      "2025-06-12": 23
+    }
   }
 ]

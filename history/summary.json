@@ -6,15 +6,15 @@
     "slug": "bangkok-bytes",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.39%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 4197,
-    "timeDay": 7327,
-    "timeWeek": 5208,
-    "timeMonth": 4326,
-    "timeYear": 4197,
+    "time": 4203,
+    "timeDay": 4486,
+    "timeWeek": 5221,
+    "timeMonth": 4320,
+    "timeYear": 4203,
     "dailyMinutesDown": {
       "2025-06-12": 23
     }
